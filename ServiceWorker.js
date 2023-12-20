@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-flappy_dragon-1.0";
 const contentToCache = [
-    "Build/web_20231219.loader.js",
-    "Build/web_20231219.framework.js.unityweb",
-    "Build/web_20231219.data.unityweb",
-    "Build/web_20231219.wasm.unityweb",
+    "Build/web_20231220.loader.js",
+    "Build/web_20231220.framework.js.unityweb",
+    "Build/web_20231220.data.unityweb",
+    "Build/web_20231220.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
